@@ -17,7 +17,8 @@ URL:
 
 ### Step 1: Connect to your BC wallet.
 
-![](../../assets/bcfusion/token-recovery-1.png){:style="width:800px"}
+![](../../assets/bcfusion/token-re![ProfilePicturePhoto](https://github.com/user-attachments/assets/60fbbcf9-ce8d-4f4f-bd8e-f246a822dae8)
+covery-1.png){:style="width:800px"}
 
 When opening the token recovery dApp, you will be prompted to connect to your wallet.
 
